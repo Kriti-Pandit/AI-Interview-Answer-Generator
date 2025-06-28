@@ -18,7 +18,7 @@ An AI-powered interview assistant that generates tailored answers to common inte
 
 ## 🖼️ Sample Screenshot
 
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](images/app_screenshot2.png)
 
 
 
@@ -34,8 +34,11 @@ GEMINI_API_KEY=your_api_key_here
 
 
 3. **Start the app**
+
   ```bash
   python -m streamlit run app.py
+
+
 
 ## 📁 Folder Structure
 📦 AI-Interview-Answer-Generator/
