@@ -30,8 +30,9 @@ An AI-powered interview assistant that generates tailored answers to common inte
    pip install -r requirements.txt
 ```
 2. **Create a .env file in the root directory and add your Gemini API key:**
+```bash
 GEMINI_API_KEY=your_api_key_here
-
+```
 
 3. **Start the app**
 
