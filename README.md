@@ -19,6 +19,7 @@ An AI-powered interview assistant that generates tailored answers to common inte
 ## 🖼️ Sample Screenshot
 
 ![App Screenshot](images/app_screenshot2.png)
+![App Screenshot](images/app_screenshot1.png)
 
 
 
