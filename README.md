@@ -42,6 +42,7 @@ GEMINI_API_KEY=your_api_key_here
 ---
 
 ## 📁 Folder Structure
+```
 📦 AI-Interview-Answer-Generator/
 ├── app.py
 ├── .env
@@ -52,6 +53,7 @@ GEMINI_API_KEY=your_api_key_here
 └── utils/
     ├── prompts.py
     └── pdf_parser.py
+```
 
 
 ## 🔒 Notes
